@@ -1,0 +1,104 @@
+body {
+    font-family: 'Itim', cursive;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+span {
+    color: orange;
+}
+
+.link {
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 10px 20px 10px 20px;
+    background-color: orangered;
+    color: whitesmoke;
+    font-weight: 700;
+}
+
+.flexi {
+    display: flex;
+}
+
+.flexible {
+    display: flex;
+    background-image: url(7.png);
+}
+
+.flexible3 {
+    display: flex;
+}
+
+.push {
+    margin-left: 180px;
+}
+
+.breadth {
+    width: 50%;
+    margin-left: 30px;
+}
+
+.breadth2 {
+    width: 50%;
+    margin-left: 90px;
+}
+
+.centre {
+    text-align: center;
+}
+
+.mar1 {
+    margin-left: 2%;
+    width: 39%;
+    text-align: center;
+}
+
+.mar2 {
+    margin-right: 30%;
+    width: 100%;
+    text-align: center;
+}
+
+.s4 {
+    display: flex;
+    box-shadow: 5px 5px 30px gray;
+    border-radius: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.y {
+    width: 33%;
+    padding-left: 10%;
+}
+
+.I {
+    width: 33%;
+    padding-left: 5%;
+}
+
+.D {
+    padding-left: ;
+}
+
+.f {
+    background-color: black;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.f p {
+    color: white;
+}
+
+.orange {
+    color: orange;
+}
+
+.grey {
+    color: gray;
+}
